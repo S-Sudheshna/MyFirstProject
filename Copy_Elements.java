@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class Copy_Elements {
     public static void main(String[] args) {
