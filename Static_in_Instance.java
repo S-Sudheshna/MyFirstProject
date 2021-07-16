@@ -1,4 +1,4 @@
-package StaticBasics;
+
 public class Static_in_Instance {
     int p=5;
     char c='h';
