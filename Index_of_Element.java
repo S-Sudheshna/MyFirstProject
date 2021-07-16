@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class Index_of_Element {
     public static void main(String[] args) {
