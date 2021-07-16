@@ -1,4 +1,4 @@
-package StaticBasics;
+
 public class Instance_Static {
     int p=5;
     char c='h';
