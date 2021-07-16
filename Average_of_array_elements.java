@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class Average_of_array_elements {
     public static void main(String[] args) {
