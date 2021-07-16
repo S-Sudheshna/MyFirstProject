@@ -1,4 +1,4 @@
-package StaticBasics;
+
 public class Basics_Static {
     int p=5;
     char c='m';
