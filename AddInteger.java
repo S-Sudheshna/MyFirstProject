@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class AddInteger {
     public static void main(String[] args) {
