@@ -1,4 +1,4 @@
-package StaticBasics;
+
 
 public class Calling_Variables_in_Main {
     int p=5;
