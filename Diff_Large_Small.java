@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class Diff_Large_Small {
     public static void main(String[] args) {
