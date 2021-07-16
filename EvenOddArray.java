@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class EvenOddArray {
     public static void main(String[] args) {
