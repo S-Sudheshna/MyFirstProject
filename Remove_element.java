@@ -1,4 +1,4 @@
-package ArrayBasics;
+
 import java.util.Scanner;
 public class Remove_element {
     public static void main(String[] args) {
