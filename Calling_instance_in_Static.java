@@ -1,4 +1,3 @@
-package StaticBasics;
 public class Calling_instance_in_Static {
     int p=5;
     char c='h';
