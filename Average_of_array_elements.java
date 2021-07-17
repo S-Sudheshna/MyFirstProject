@@ -22,6 +22,6 @@ public class Average_of_array_elements {
                 i=i+NewArr[j];
             }
             System.out.println("sun of integer values in array is"+i);
-            System.out.println("sum of integer values in array is"+(i/NewArr.length));
+            System.out.println("sum of integer values in array is"+((double)i/(double)NewArr.length));
     }
 }
